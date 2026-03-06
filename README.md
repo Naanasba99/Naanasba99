@@ -1,7 +1,7 @@
 # Hi, I'm Naanasba 
 Actively transitioning into cybersecurity
 Target roles: SOC Analyst · DFIR Specialist · Threat Hunter
-French-speaking Africa
+Langage: French- English - Arabic - Spanish
 
 # What I'm Building
 
@@ -12,10 +12,9 @@ French-speaking Africa
 
 ## Currently Studying
 
-| Certification | Status |
-|---|---|
+## Certification | Status |
+| Google Cybersecurity Certificate | Google / Coursera | ✅ Completed |
 | CompTIA Security+ | In progress (50%+) |
-| BTL1 |  Planned |
 
 ## Tech Stack
 
