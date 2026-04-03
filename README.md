@@ -1,4 +1,4 @@
-# Hi,
+# Hello everyone,
 Actively transitioning into cybersecurity
 Target roles: SOC Analyst · DFIR Specialist · Threat Hunter
 ## Langage: French- English - Arabic - Spanish
