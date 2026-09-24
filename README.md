@@ -1,70 +1,52 @@
-# Cybersecurity Enthusiast | SOC Analyst · DFIR · Threat Hunting
+# Hisseine Saleh — SOC · DFIR · Threat Hunting · IA locale
 
-Actively transitioning into cybersecurity with a strong focus on:
+Founder of **SAIME3i** — a consulting practice built on one idea:
+*distinguishing the reliable from the risky in a world saturated with information.*
 
-* SOC Operations
-* DFIR (Digital Forensics & Incident Response)
-* Threat Hunting
-* Threat Intelligence
+I build practical, **privacy-first** systems: everything runs locally, no cloud dependency,
+no data leaving the machine. My background is in finance, administration and project
+management; I now apply that rigor to defensive security and applied AI.
 
-Languages: French · English · Arabic · Spanish
+---
 
-## What I'm Building
+## What I build
 
-* Threat intelligence tools in Python & Bash
-* Detection engineering & IOC automation
-* Incident write-ups mapped to MITRE ATT&CK
-* Automated IOC enrichment using:
+- **DFIR investigations** — forensic case write-ups reasoned like a practitioner's journal,
+  each verdict stated with its confidence level (CAMO method).
+- **Local AI systems** — RAG for SOC analysts, an automated writing/reading studio — all offline.
+- **Detection & threat intelligence** — IOC enrichment, log analysis, MITRE ATT&CK mapping.
+- **Homelab & infrastructure** — self-hosted, hardened, documented.
 
-  * VirusTotal
-  * AbuseIPDB
-  * URLhaus
+## Featured projects (public)
 
-## Home Lab Environment
+| Project | What it is |
+|---|---|
+| [`dfir-investigations`](https://github.com/Naanasba99/dfir-investigations) | Forensic investigations, documented step by step with the CAMO method |
+| [`soc-rag-offline`](https://github.com/Naanasba99/soc-rag-offline) | Offline RAG assistant for SOC/DFIR analysts — LLM + ChromaDB + MITRE ATT&CK |
+| [`atelier-ia-local`](https://github.com/Naanasba99/atelier-ia-local) | 100% local AI writing & book-summary studio (n8n + Ollama), with code-based fact-checking |
+| [`homelab-vpn-setup`](https://github.com/Naanasba99/homelab-vpn-setup) | Self-hosted VPN on Raspberry Pi 5 — WireGuard/Tailscale, Pi-hole, Unbound |
+| [`linux-training-toolkit`](https://github.com/Naanasba99/linux-training-toolkit) | Bash toolkit to learn Linux from the inside: cheatsheet, daily analyst ritual, system audit |
 
-* Wazuh SIEM
-* Kali Linux
-* Rocky Linux
-* Parrot OS
-* Ubuntu
-* Windows
-* Raspberry Pi
+## Approach
 
-Focused on:
-
-* log analysis,
-* attack simulation,
-* detection tuning,
-* and defensive security operations.
+1. Start from raw data, not a pre-chewed alert.
+2. Form a narrow, testable hypothesis — proving an absence is a result too.
+3. Cross-check sources instead of trusting a single indicator.
+4. Deliver a verdict **with its confidence level**, and name what the traces do *not* say.
 
 ## Certifications
 
-| Certification                    | Provider          | Status             |
-| -------------------------------- | ----------------- | ------------------ |
-| Google Cybersecurity Certificate | Google / Coursera | ✅ Completed        |
-| CompTIA Security+                | CompTIA           | In Progress (50%+) |
+| Certification | Provider | Status |
+|---|---|---|
+| Google Cybersecurity Certificate | Google / Coursera | ✅ Completed |
+| CompTIA Security+ | CompTIA | In progress (50%+) |
 
-## Tech Stack
+## Tech
 
-Python · Bash · Linux · Wazuh · Kibana · Raspberry Pi · MITRE ATT&CK
+Python · Bash · Linux · Docker · n8n · Ollama · Wazuh · ChromaDB · MITRE ATT&CK · Raspberry Pi
 
-## Projects
+**Languages:** French · English · Arabic · Spanish
 
-Repositories are added progressively as I build, test, and document real-world cybersecurity workflows.
+---
 
-### Featured Projects
-
-* linux-training-toolkit
-* local-rag-soc
-
-  * Offline local RAG system for SOC/DFIR analysts
-  * LLM + ChromaDB + MITRE ATT&CK
-* homelab-vpn-setup
-
-  * Self-hosted VPN infrastructure with Tailscale, Pi-hole & Unbound
-* ad-lab-purple-team
-
-  * Active Directory purple team lab with MITRE ATT&CK exercises
-* dfir-journey
-
-Currently focused on continuous learning, hands-on labs, and practical defensive security engineering.
+*Currently focused on building SAIME3i. Repositories are added as I build, test and document.*
